@@ -1,5 +1,7 @@
 {
   "private": true,
+  "name": "@types/react-jss",
+  "version": "8.6.3",
   "dependencies": {
     "csstype": "^2.0.0"
   }
